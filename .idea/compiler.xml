@@ -13,7 +13,7 @@
     <bytecodeTargetLevel>
       <module name="kafka-basics" target="1.8" />
       <module name="kafka-starter" target="1.5" />
-      <module name="kafka-streams" target="1.5" />
+      <module name="kafka-streams" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
